@@ -1,0 +1,8 @@
+{
+  "name": "First",
+  "version": "12",
+  "main": "index.js",
+  "repository": "https://github.com/saurin1301/cricket-quiz.git",
+  "author": "saurin1301 <69242662+saurin1301@users.noreply.github.com>",
+  "license": "MIT"
+}
